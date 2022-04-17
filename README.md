@@ -6,7 +6,7 @@ Alpha-complexes allow one to construct connected shapes from point clouds, and s
 
 <figure>
     <img src="./figures/Euclidean_Voronoi_diagram.svg" alt="Voronoi cells" width=400>
-    <figcaption>Voronoi cells. <a href="https://commons.wikimedia.org/wiki/File:Euclidean_Voronoi_diagram.svg">Author: Balu Ertl</a></figcaption>
+    <figcaption>Voronoi cells. <a href="https://commons.wikimedia.org/wiki/File:Euclidean_Voronoi_diagram.svg">From Wikipedia, Author: Balu Ertl</a></figcaption>
 </figure>
 
 ## Delaunay triangulations
@@ -15,7 +15,7 @@ The Voronoi diagram of a set of points is the *dual* of the Delaunay triangulati
 
 <figure>
     <img src="./figures/Delaunay_Voronoi.svg" alt="Voronoi cells" width=400>
-    <figcaption>Voronoi cells and Delaunay triangulation. <a href="https://commons.wikimedia.org/wiki/File:Delaunay_Voronoi.svg">Author: Nü Es</a></figcaption>
+    <figcaption>Voronoi cells and Delaunay triangulation. <a href="https://commons.wikimedia.org/wiki/File:Delaunay_Voronoi.svg">From Wikipedia, Author: Nü Es</a></figcaption>
 </figure>
 
 
