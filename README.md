@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwilding/TDA-intro/HEAD?labpath=TDA-intro)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwilding/TDA-intro/HEAD?labpath=TDA-intro.ipynb)
 
 # Intro to Topological Data Analysis
 
