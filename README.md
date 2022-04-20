@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwilding/TDA-intro/HEAD?labpath=TDA-intro)
+
 # Intro to Topological Data Analysis
 
 In this notebook I'll briefly outline a few basic concepts of TDA. A much more detailed discussion can be found in the book by Edelsbrunner & Harer (2010): [**Computational Topology: An introduction**](https://books.google.nl/books?id=LiljEAAAQBAJ&lpg=PP1&ots=JbpA1elQR6&dq=Computational%20Topology%3A%20An%20Introduction&lr&pg=PP1#v=onepage&q=Computational%20Topology:%20An%20Introduction&f=false). I will make use of alpha complexes, and do the computations with [Gudhi](http://gudhi.gforge.inria.fr/).
